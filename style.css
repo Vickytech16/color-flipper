@@ -1,0 +1,39 @@
+/* 25/04/2023 */
+
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+main{
+ display: flex;
+ justify-content: center;
+ align-items: center; 
+ width: 100vw;
+ height: 100vh;
+}
+
+#cf{
+ width: 200px;
+ height: 50px;
+ background-color: red;
+ color: white;
+ font-size: 30px;
+}
+
+header{
+ border-bottom: 5px solid black;
+ display: flex;
+ justify-content: space-between;
+}
+
+h1{
+ color: red
+}
+
+#code{
+ color:blue;
+ text-align: left;
+}
+
